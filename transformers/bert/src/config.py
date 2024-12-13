@@ -1,0 +1,12 @@
+config={
+    "max_len":30,
+    "batch_size":6,
+    "max_pred":5,
+    "n_layers":6,
+    "n_heads":12,
+    "d_model":768,
+    "d_ff":768*4,
+    "d_k":64,
+    "d_v":64,
+    "n_segments":2 
+}
