@@ -1,1 +1,2 @@
 # DL-paper_implementations
+A repository showcasing implementations of groundbreaking deep learning papers, built entirely using NumPy and PyTorch. This collection spans foundational models like AlexNet and LeNet, key advancements in sequence modeling, and modern transformer architectures like BERT, GPT-1,GPT-1 for generating Shakespear-like stories and investigations into neural machine translation (NMT) representations. It also explores fine-tuning techniques like LoRA and GPT-2 adaptations for various tasks.
