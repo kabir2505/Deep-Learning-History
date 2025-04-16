@@ -34,11 +34,13 @@ This repo spans from classic architectures to modern transformer-based models, a
     - [x] DCGans
     - [x] WGans
     - [x] WGan-gp
+- [x] **Vision**
+  - [x] Vision Transformers
 - [x] **metrics**
-    -[x] bleu
+    - [x] bleu
 - [x] **finetuning**
-    -[x] classification finetuning gpt2 from scratch
-    -[x] instruction finetuning
+    - [x] classification finetuning gpt2 from scratch
+    - [x] instruction finetuning
 ---
 
 🧠 All models are implemented from scratch or with minimal reliance on high-level libraries, to deepen understanding of core concepts and techniques.
