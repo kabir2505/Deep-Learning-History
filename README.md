@@ -1,7 +1,7 @@
 # DL-paper_implementations
 
 A curated collection of deep learning paper implementations built **only** using **NumPy** and **PyTorch**.  
-This repo spans from classic architectures to modern transformer-based models, along with experiments in fine-tuning and representation learning.
+This repo spans from classic architectures to modern transformer-based models, along with experiments in fine-tuning and representation learning.  
 
 ## ✅ Implemented Papers & Architectures
 
