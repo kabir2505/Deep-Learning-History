@@ -1,2 +1,11 @@
 BatchNormalization/
 vision-models/ViT/vision_transformer.ipynb
+**/.venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
